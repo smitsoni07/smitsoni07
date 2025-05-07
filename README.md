@@ -32,7 +32,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=smitsoni07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=smitsoni07&theme=tokyonight&hide_border=true" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=smitsoni07&theme=tokyonight&hide_border=true" /> -->
 </p>
 
 <p align="center">
@@ -58,13 +58,6 @@
   <a href="https://linkedin.com/in/smitsoni-" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:smitsoni997@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/smitsoni07/smitsoni07/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 💬 Quote of the Day
