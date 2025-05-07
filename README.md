@@ -32,7 +32,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=smitsoni07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=smitsoni07&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=smitsoni07&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/smitsoni07/smitsoni07/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/smitsoni07/smitsoni07/output/github-contribution-grid-snake.svg)
 
 ---
 
